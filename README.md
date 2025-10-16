@@ -6,7 +6,7 @@ DB Tech's Docker and Docker Compose Install
 To install the newest versions of sudo (optional depending on which script you use), curl, Docker, and docker compose, simply ssh into your server, then clone this repository with: 
 
 ```
-git clone https://github.com/dnburgess/dockerinstall.git
+git clone https://github.com/abnersiqueira/dockerinstall.git
 ```
 If you don't have git installed, you can run:
 ```
@@ -34,7 +34,7 @@ If you don't want to use root/sudo, you can do the following:
 
 Clone the repository:
 ```
-git clone https://github.com/dnburgess/dockerinstall.git
+git clone https://github.com/abnersiqueira/dockerinstall.git
 ```
 If you don't have git installed, you can run:
 ```
@@ -60,7 +60,7 @@ Execute the file:
 To install the newest versions of sudo (optional depending on which script you use), curl, Docker, and docker compose, simply ssh into your server, then clone this repository with: 
 
 ```
-git clone https://github.com/dnburgess/dockerinstall.git
+git clone https://github.com/abnersiqueira/dockerinstall.git
 ```
 If you don't have git installed, you can run:
 ```
